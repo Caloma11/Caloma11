@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Gianluca</h1>
-<h3 align="center">A enthusiastic full-stack developer originally from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caloma11&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="caloma11" /></a> </p>
 
