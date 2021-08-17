@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gianluca</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caloma11&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="caloma11" /></a> </p>
-
 - 📫 How to reach me **gianlucamperrone@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
